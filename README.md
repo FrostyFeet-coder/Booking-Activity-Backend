@@ -2,6 +2,9 @@
 
 This is a simple REST API backend for an activity booking app. The API allows users to register, login, view available activities, book activities, and view their bookings.
 
+## Hosted Link
+https://booking-activity-backend.onrender.com
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
